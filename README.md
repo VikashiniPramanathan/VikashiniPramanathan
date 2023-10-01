@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Hi 👋, I'm Vikashini Pramanathan
-  
-A passionate Frontend Developer from India
+     👩‍🎓 A passionate Frontend Developer from India
 
 - 🔭 I’m interested in learning about **Full-Stack Developer and eager to do more projects**
 
