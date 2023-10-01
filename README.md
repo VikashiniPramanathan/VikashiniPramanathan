@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm @VikashiniPramanathan</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+✨Hi 👋, I'm @VikashiniPramanathan</h1>
+A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashinipramanathan&label=Profile%20views&color=0e75b6&style=flat" alt="vikashinipramanathan" /> </p>
 
