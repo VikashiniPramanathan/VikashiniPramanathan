@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Hi 👋, I'm Vikashini Pramanathan</h1>
+- Hi 👋, I'm Vikashini Pramanathan
+  
 A passionate Frontend Developer from India
 
 - 🔭 I’m interested in learning about **Full-Stack Developer and eager to do more projects**
