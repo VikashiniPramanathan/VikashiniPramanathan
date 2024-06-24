@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vikashini0408@gmail.com**
 
-- 💕My resume [https://app.luminpdf.com/viewer/6517b52f14a77928c42936f1](https://app.luminpdf.com/viewer/6517b52f14a77928c42936f1)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
